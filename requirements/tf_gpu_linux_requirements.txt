@@ -33,4 +33,4 @@ tensorflow-gpu==1.2.1
 termcolor==1.1.0
 torch==1.0.0
 torchvision==0.2.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
